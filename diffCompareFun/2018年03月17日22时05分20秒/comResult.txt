@@ -1,0 +1,14 @@
+same##ok##.//2017年11月23日15时04分38秒##.//2017年11月23日15时04分38秒
+same##ok##.//A##.//A
+same##ok##.//2017年11月23日15时11分48秒##.//2017年11月23日15时11分48秒
+same##ok##.//B##.//B
+same##ok##.//diffCompareFun.py##.//diffCompareFun.py
+same##ok##./2017年11月23日15时04分38秒/comList.txt##./2017年11月23日15时04分38秒/comList.txt
+same##ok##./2017年11月23日15时04分38秒/comResult.txt##./2017年11月23日15时04分38秒/comResult.txt
+same##ok##./A/test##./A/test
+same##ok##./2017年11月23日15时11分48秒/comList.txt##./2017年11月23日15时11分48秒/comList.txt
+same##ok##./2017年11月23日15时11分48秒/20171123151148_46_test.html##./2017年11月23日15时11分48秒/20171123151148_46_test.html
+same##ok##./2017年11月23日15时11分48秒/comResult.txt##./2017年11月23日15时11分48秒/comResult.txt
+same##ok##./B/test##./B/test
+
+
